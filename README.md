@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rhea
-- 👀 I’m interested in C Programming and VLSI
+- 👀 I’m interested in C Programming and VLSI/Embedded Systems
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Gaming projects(Chess, CRPG, etc), Sound/Hearing/Sign-Lang projects
 - 📫 How to reach me : @_rh_ch on instagram
