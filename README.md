@@ -54,5 +54,5 @@ const student = {
 </div>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt0M244M2hvOHZ5c2J5ejZwbWVtcWZqaTU5emFmaHFwdTdlZjRpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hq7O4BvUNmjLicWaST/giphy.gif" width="100%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFhYWNtaDRjc21hcnV1YTBzeDIwYWhlbDBvaWN1dmpva2E5Y3RxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/orUBsDjlD2rzsz6pPK/giphy.gif" width="100%" height="150px"/>
 </p>
