@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajR2cDU5Ymd5OGF0amNseHE0bjllZTFnZ2Fjd3dvOWM0aHl3NXAzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cOSbH8NoUFt9MXbuie/giphy.gif" width="60%" height="150px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajR2cDU5Ymd5OGF0amNseHE0bjllZTFnZ2Fjd3dvOWM0aHl3NXAzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cOSbH8NoUFt9MXbuie/giphy.gif" width="60%" height="100px"/>
 </p>
 
 ## About Me
@@ -49,7 +49,9 @@ const student = {
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rchps.05@gmail.com)
   
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rh-ch&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0" width="100%"/>
