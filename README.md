@@ -11,7 +11,7 @@
 ## About Me
 
 ```javascript
-const developer = {
+const student = {
     name: "Rhea",
     pronouns: "she/her",
     location: "India",
