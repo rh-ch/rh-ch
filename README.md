@@ -1,4 +1,4 @@
-# ✨ 𝔸𝕖𝕤𝕥𝕙𝕖𝕥𝕚𝕔 ℂ𝕠𝕕𝕖 ✨
+# RH-CH
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=C9A9DD&background=00000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+realm;Creating+art+through+code;Building+dreams+in+darkness" alt="Typing SVG" />
@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-## 🌙 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+## About Me
 
 ```javascript
 const developer = {
