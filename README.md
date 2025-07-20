@@ -25,7 +25,7 @@ const developer = {
   <img src="https://github-readme-stats.vercel.app/api?username=rh-ch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </div>
 
-## 🔮 𝕄𝕪 𝕋𝕖𝕔𝕙 𝕊𝕡𝕖𝕝𝕝𝕓𝕠𝕠𝕜
+## Tech Stack
 
 <div align="center">
   
@@ -36,13 +36,13 @@ const developer = {
 
 </div>
 
-## 🎭 𝔾𝕚𝕥ℍ𝕦𝕓 𝔸𝕣𝕔𝕒𝕟𝕖
+## Git Arcane
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rh-ch&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
-## 🔗 ℭ𝔬𝔫𝔫𝔢𝔠𝔱 𝔦𝔫 𝔞 𝔇𝔦𝔪𝔢𝔫𝔰𝔦𝔬𝔫
+## Connect
 
 <div align="center">
   
