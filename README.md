@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm15MDRvNGN4d25qcW5sY2d1a2xucmNpZzlxZjdyaDJsMHZraHo5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkCgDZHywXa6Y/giphy.gif" width="100%" height="200px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm15MDRvNGN4d25qcW5sY2d1a2xucmNpZzlxZjdyaDJsMHZraHo5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkCgDZHywXa6Y/giphy.gif" width="100%"/>
 </p>
 
 ## About Me
@@ -54,5 +54,5 @@ const student = {
 </div>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt0M244M2hvOHZ5c2J5ejZwbWVtcWZqaTU5emFmaHFwdTdlZjRpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hq7O4BvUNmjLicWaST/giphy.gif" width="100%" height="150px"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt0M244M2hvOHZ5c2J5ejZwbWVtcWZqaTU5emFmaHFwdTdlZjRpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hq7O4BvUNmjLicWaST/giphy.gif" width="100%"/>
 </p>
