@@ -1,7 +1,7 @@
 # RH-CH
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=C9A9DD&background=00000000&center=true&vCenter=true&width=435&lines=Hello;:);Building+dreams+in+darkness" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=C9A9DD&background=00000000&center=true&vCenter=true&width=435&lines=Hello;:)" alt="Typing SVG" />
 </div>
 
 <p align="center">
