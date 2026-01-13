@@ -32,11 +32,6 @@ const student = {
 
 </div>
 
-## Git Arcane
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rh-ch&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
 
 ## Connect
 
