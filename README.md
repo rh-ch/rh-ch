@@ -15,7 +15,7 @@ const student = {
     name: "Rhea",
     pronouns: "she/her",
     location: "India",
-    interests: ["VLSI", "Robotics", "ML", "Signal Processing"],
+    interests: ["VLSI/HPC", "Robotics", "ML"],
     currentlyLearning: ["ROS", "Digital/Analog VLSI"],
     funFact: "I play bass"
 };
