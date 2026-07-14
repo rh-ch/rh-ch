@@ -16,7 +16,7 @@ const student = {
     pronouns: "she/her",
     location: "India",
     interests: ["VLSI/HPC", "Robotics", "ML"],
-    currentlyLearning: ["ROS", "Digital/Analog VLSI"],
+    currentlyLearning: ["ROS", "Digital VLSI"],
     funFact: "I play bass"
 };
 ```
